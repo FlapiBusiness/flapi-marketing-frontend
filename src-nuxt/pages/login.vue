@@ -27,7 +27,7 @@
         type="submit"
         class="w-full rounded-lg bg-purple-600 px-6 py-3 text-white hover:bg-purple-700 focus:ring-4 focus:ring-purple-500"
       >
-        S'inscrire
+        Connexion
       </button>
     </form>
 
